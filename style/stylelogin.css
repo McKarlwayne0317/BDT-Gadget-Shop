@@ -1,0 +1,14 @@
+.button-box {
+  text-align: center;
+  margin-top: 20px;
+}
+.bdtlogo {
+  height: 50px;
+  width: 50px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.backarrow {
+  height: 30px;
+}
